@@ -1,8 +1,12 @@
 # India-Trip-Planner
 Knapsack Enhanced India Trip Planner using Greedy Activity Scheduling and Dijkstra's Heuristic
+
 Team Members:
+
 Surabhi Khekale (B3-36)
+
 Aditi Dhamankar (B3-46)
+
 Gauri Joshi (B1-09)
 
 Introduction
